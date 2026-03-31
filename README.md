@@ -53,7 +53,7 @@ The main objective is to transform raw transactional data into clear, actionable
 
  ┣ 📄 README.md
  ┣ 📄 Fawry_Dashboard.xlsx
- ┗ 📄 sales-analysis-dashboard.png
+ ┗ 📄 sales-analysis-dashboard-img.png
 
 ---
 
