@@ -57,10 +57,6 @@ The main objective is to transform raw transactional data into clear, actionable
 
 ---
 
-## 🔗 Project Link :
-
----
-
 ## 🤝 Let's Connect
 I'm currently transitioning into the **Data Analysis field** and actively building real-world projects.
 
