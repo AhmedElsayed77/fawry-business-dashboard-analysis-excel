@@ -28,7 +28,7 @@ The main objective is to transform raw transactional data into clear, actionable
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](images/sales-analysis-dashboard.png)
+![Dashboard](sales-analysis-dashboard.png)
 
 ---
 
@@ -50,10 +50,9 @@ The main objective is to transform raw transactional data into clear, actionable
 
 ## 📂 Project Structure
 
-📁 Dashboard
-📄 Fawry_Dashboard.xlsx
-📄 README.md
-
+ ┣ 📄 README.md
+ ┣ 📄 Fawry_Dashboard.xlsx
+ ┗ 📄 sales-analysis-dashboard.png
 
 ---
 
