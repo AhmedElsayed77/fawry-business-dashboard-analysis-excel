@@ -28,7 +28,7 @@ The main objective is to transform raw transactional data into clear, actionable
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](./sales-analysis-dashboard.png)
+![Dashboard](./sales-analysis-dashboard-img.png)
 
 
 ---
