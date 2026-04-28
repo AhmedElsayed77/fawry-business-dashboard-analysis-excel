@@ -1,4 +1,5 @@
 # 📊 fawry-business-dashboard-analysis-excel
+This project presents an interactive business dashboard built using Microsoft Excel, based on simulated commercial data inspired by a digital payments company like Fawry.
 
 ## 🚀 Overview
 This project presents an interactive business dashboard built using **Microsoft Excel**, based on simulated commercial data inspired by a digital payments company like Fawry.
